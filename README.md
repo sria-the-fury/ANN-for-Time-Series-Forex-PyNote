@@ -9,6 +9,6 @@ then activate the venv
 source venv/bin/activate
 ```
 Installing necessary package
-```
-
+```python
+pip install jupyterlab yfinance
 ```
